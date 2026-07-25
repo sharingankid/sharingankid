@@ -58,7 +58,7 @@ Avec le temps, cette curiosité est devenue une vraie direction, que j’ai conc
 - 🖨️ **Printf** → Implémentation custom de printf
 - ⚙️ **Projets perso** → Bots Discord pour streamers → Notifications automatiques multi-plateformes
 - 🌐 **Site vitrine pour la mairie de Paris** → Dans le cadre de nos premiers pas dans le html, j'ai eu l'honneur de faire un site pour la mairie de paris avec @rwanbt
-- 🌍 **Linguao** → Création d'un site/application de traductions de langues non prises en charge par les services de traduction classiques (🇲🇦 🇸🇳 🇵🇫)
+- 🌍 **Linguao** → Création d'un site/application de traductions de langues non prises en charge par les services de traduction classiques (<img src="https://flagcdn.com/w20/ma.png" width="16"/> <img src="https://flagcdn.com/w20/sn.png" width="16"/> <img src="https://flagcdn.com/w20/pf.png" width="16"/>)
 ---
 
 ## ⚡ Mentalité
