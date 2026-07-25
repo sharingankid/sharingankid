@@ -54,21 +54,11 @@ Avec le temps, cette curiosité est devenue une vraie direction, que j’ai conc
 
 ## 🚀 Projets
 
-- 🔧 **Simple Shell** → création d’un shell en C
-- 🖨️ **Printf** → implémentation custom de printf
-- ⚙️ **Projets perso** : bots Discord pour streamers → notifications automatiques multi-plateformes
+- 🔧 **Simple Shell** → Création d’un shell en C
+- 🖨️ **Printf** → Implémentation custom de printf
+- ⚙️ **Projets perso** → Bots Discord pour streamers → Notifications automatiques multi-plateformes
 - 🌐 **Site vitrine pour la mairie de Paris** → Dans le cadre de nos premiers pas dans le html, j'ai eu l'honneur de faire un site pour la mairie de paris avec @rwanbt
-
----
-
-## 📊 Stats GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=splint314&show_icons=true&theme=dark&hide_border=true&bg_color=000000" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=splint314&layout=compact&theme=dark&hide_border=true&bg_color=000000"/>
-</p>
-
+- 🌍 **Linguao** → Création d'un site/application de traductions de langues non prises en charge par les services de traduction classiques (🇲🇦 🇸🇳 🇵🇫)
 ---
 
 ## ⚡ Mentalité
