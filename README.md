@@ -1,114 +1,121 @@
-<!-- BANNIERE -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=200&section=header&text=splint314&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="./assets/banner.svg" alt="sharingankid — Développeur Fullstack · Cybersécurité · Low-level" width="100%"/>
 </p>
-<h1 align="center">splint314</h1>
-<p align="center">💻 Informatique • ⚙️ Systèmes • 🔧 Optimisation</p>
+
+<p align="center">
+  <a href="https://github.com/sharingankid">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=E11D48&center=true&vCenter=true&width=620&lines=%24+make+it+work%2C+make+it+right%2C+make+it+fast;Comprendre+%3E+ex%C3%A9cuter+sans+r%C3%A9fl%C3%A9chir;Fullstack+%E2%80%A2+Cybers%C3%A9curit%C3%A9+%E2%80%A2+DevOps" alt="Typing SVG"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Holberton_School-Toulouse-e11d48?style=flat-square&labelColor=0b0b0e"/>
+  <img src="https://img.shields.io/badge/RNCP_6-Concepteur_Développeur_d'Applications-e11d48?style=flat-square&labelColor=0b0b0e"/>
+  <img src="https://komarev.com/ghpvc/?username=sharingankid&style=flat-square&color=e11d48&label=visites"/>
+</p>
 
 ---
 
-## 👨‍💻 Présentation
+## `$ cat about.md`
 
-Étudiant à **Holberton School Toulouse**, je me spécialise dans le développement et les systèmes informatiques.<br/>
-Mon objectif est de devenir **expert en cybersécurité** et **développeur fullstack**, avec une forte base technique.
+Étudiant à **Holberton School Toulouse** (cohorte C29), en route vers le titre **RNCP 6 – Concepteur Développeur d'Applications**.
+Je construis des applications **fullstack** de bout en bout, avec une vraie affinité pour le **bas niveau** et la **cybersécurité**.
 
----
+Passionné de PC depuis petit : j'ai commencé par démonter des consoles et écumer les forums de modding et de hardware pour pousser mes machines dans leurs retranchements. Cette curiosité est devenue un métier : aujourd'hui je veux comprendre comment les choses marchent *sous le capot*, pas juste les faire tourner.
 
-## 🧍 À propos de moi
-
-Je suis passionné par l'univers du PC depuis petit.<br/>
-J'ai commencé par démonter des consoles, puis à passer des heures à explorer des forums de modding et de hardware pour personnaliser mon expérience de jeu et en exploiter certains à leur pleins potentiels.<br/>
-Avec le temps, cette curiosité est devenue une vraie direction, que j'ai concrétisée aujourd'hui avec une formation en informatique.
-
----
-
-## 🧠 À propos
-
-- Intérêt marqué pour les **systèmes, le low-level et l'optimisation**
-- Approche : comprendre en profondeur, pas survoler
-- Stack : **C, Python, mémoire, processus, architecture, IA appliquée**
+```yaml
+focus:      [fullstack, cybersécurité, systèmes & low-level]
+en_ce_moment: BoxTrack — app de gestion de WODs pour CrossFit LAB (en production)
+apprend:    [React, DevOps / CI-CD, Ansible, agents IA]
+approche:   "Comprendre > exécuter sans réfléchir"
+```
 
 ---
 
-### 💻 Langages
+## `$ ls ./stack`
+
+**Langages**
 
 <p>
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/C-0b0b0e?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-0b0b0e?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Bash-0b0b0e?style=for-the-badge&logo=gnubash&logoColor=4EAA25"/>
+  <img src="https://img.shields.io/badge/JavaScript-0b0b0e?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/HTML5-0b0b0e?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/CSS3-0b0b0e?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/Kotlin-0b0b0e?style=for-the-badge&logo=kotlin&logoColor=7F52FF"/>
 </p>
 
----
-
-## ⚙️ Développement
+**Frameworks & données**
 
 <p>
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/React-0b0b0e?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vite-0b0b0e?style=for-the-badge&logo=vite&logoColor=646CFF"/>
+  <img src="https://img.shields.io/badge/Flask-0b0b0e?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-0b0b0e?style=for-the-badge&logo=fastapi&logoColor=009688"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-0b0b0e?style=for-the-badge&logo=sqlalchemy&logoColor=D71F00"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0b0b0e?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+  <img src="https://img.shields.io/badge/SQLite-0b0b0e?style=for-the-badge&logo=sqlite&logoColor=4FB0E3"/>
+  <img src="https://img.shields.io/badge/Supabase-0b0b0e?style=for-the-badge&logo=supabase&logoColor=3FCF8E"/>
 </p>
 
----
-
-## 🏅 Certifications
+**Infra, DevOps & IA**
 
 <p>
-  <img src="https://img.shields.io/badge/IBM-Agile_Explorer-000000?style=for-the-badge&logo=ibm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IBM-Open_Source_Foundations-000000?style=for-the-badge&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-0b0b0e?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+  <img src="https://img.shields.io/badge/Git-0b0b0e?style=for-the-badge&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/Docker-0b0b0e?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+  <img src="https://img.shields.io/badge/Ansible-0b0b0e?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-0b0b0e?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
+  <img src="https://img.shields.io/badge/Vercel-0b0b0e?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-0b0b0e?style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP-0b0b0e?style=for-the-badge&logo=anthropic&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 Stats GitHub
+## `$ ls ./projets --sort=recent`
+
+| Projet | Description | Stack |
+|:--|:--|:--|
+| 🏋️ **[BoxTrack](https://github.com/sharingankid/boxtrack)** | App web pour **CrossFit LAB** (Toulouse) : création des WODs par les coachs, historique public et vue `/screen` pour la TV de la salle. Projet de fin d'année avec [@Panaki-GILLOT](https://github.com/Panaki-GILLOT), **en production**. | React · Vite · PostgreSQL · Supabase · Vercel |
+| ⚙️ **[DevOps Pipeline Lab](https://github.com/sharingankid/holbertonschool-hbtn-devops-pipeline-lab)** · **[Ansible](https://github.com/sharingankid/Configuration-Management-with-Ansible)** | Pipelines CI/CD et gestion de configuration automatisée. | GitHub Actions · Docker · Ansible |
+| 🦾 **[LE BRAS](https://github.com/sharingankid/hackathon-le-bras)** | Hackathon *Full Stack Agentique IA* : agent IA *human-in-the-loop*. J'ai réalisé le front, avec [@Pierre1200](https://github.com/Pierre1200) au back. | FastAPI · JavaScript |
+| 📺 **[androidTV_cleaner](https://github.com/sharingankid/androidTV_cleaner)** | App Android TV qui sauvegarde dossiers, données d'apps et infos système sur clé USB, et nettoie caches et fichiers temporaires, **sans root**. | Kotlin · Leanback |
+| 🏬 **[HBntory](https://github.com/sharingankid/HBntory)** | Gestion de stock multi-branches avec un **agent IA** (MCP + LLM local) pour interroger le catalogue et la disponibilité en langage naturel. Avec [@Panaki-GILLOT](https://github.com/Panaki-GILLOT). | Flask · Docker · SQLite · Ollama |
+| 🌍 **[Linguao](https://github.com/sharingankid/linguao)** | Traduction de langues mal prises en charge par les services classiques <img src="https://flagcdn.com/w20/ma.png" width="16"/> <img src="https://flagcdn.com/w20/sn.png" width="16"/> <img src="https://flagcdn.com/w20/pf.png" width="16"/> | Flask · Ollama |
+| 🐚 **[Simple Shell](https://github.com/sharingankid/holbertonschool-simple_shell2)** · 🖨️ **[Printf](https://github.com/sharingankid/holbertonschool-printf)** | Un interpréteur de commandes et une réimplémentation de `printf`, en C. | C |
+| 🤖 **Bots Discord** | Bots de notifications automatiques multi-plateformes pour streamers, hébergés sur VPS. | Python · Linux |
+
+---
+
+## `$ git log --stats`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=splint314&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=splint314&layout=compact&theme=dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sharingankid&show_icons=true&hide_border=true&count_private=true&bg_color=0b0b0e&title_color=e11d48&icon_color=e11d48&text_color=d4d4dc" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharingankid&layout=compact&hide_border=true&bg_color=0b0b0e&title_color=e11d48&text_color=d4d4dc" height="165"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=splint314&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=sharingankid&hide_border=true&background=0b0b0e&ring=e11d48&fire=e11d48&currStreakLabel=e11d48&sideLabels=d4d4dc&currStreakNum=ffffff&sideNums=ffffff&dates=6b6b78&stroke=1f1f25"/>
 </p>
 
 ---
 
-## 🚀 Projets
+## `$ cat certifications.txt`
 
-- 🔧 **[Simple Shell](https://github.com/splint314/holbertonschool-simple_shell2)** → Création d'un shell en C
-- 🖨️ **[Printf](https://github.com/splint314/holbertonschool-printf)** → Implémentation custom de printf
-- ⚙️ **Projets perso** → Bots Discord pour streamers → Notifications automatiques multi-plateformes
-- 🌐 **[Site vitrine pour la mairie de Paris](https://github.com/Rwanbt/holbertonschool-project-paris)** → Dans le cadre de nos premiers pas dans le html, j'ai eu l'honneur de faire un site pour la mairie de paris avec @rwanbt
-- 🌍 **[Linguao](https://github.com/splint314/linguao)** → Création d'un site/application de traductions de langues non prises en charge par les services de traduction classiques (<img src="https://flagcdn.com/w20/ma.png" width="16"/> <img src="https://flagcdn.com/w20/sn.png" width="16"/> <img src="https://flagcdn.com/w20/pf.png" width="16"/>)
-- 🏬 **[HBntory](https://github.com/splint314/HBntory)** → Dans le cadre de la fin de notre deuxième trimestre avec @Panaki-GILLOT nous devions faire un système de gestion de stock multi-branches avec agent IA (MCP + LLM local) pour interroger le catalogue, la disponibilité en langage naturel et un système de réponse à des questions liées à des articles.<br/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED"/>
-  <img src="https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=07405e"/>
----
-
-## ⚡ Mentalité
-
-> Comprendre > exécuter sans réfléchir
-
----
-
-## 📫 Contact
-
-- Discord : splint314
-- GitHub : https://github.com/splint314
-- Email: krigal323@gmail.com
-- Linkedin: https://www.linkedin.com/in/kevin-rigal-80a331240/
-
----
-
-<p align="center">
-  Toujours en train d'optimiser.
+<p>
+  <img src="https://img.shields.io/badge/IBM-Agile_Explorer-0b0b0e?style=for-the-badge&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IBM-Open_Source_Foundations-0b0b0e?style=for-the-badge&logo=ibm&logoColor=white"/>
 </p>
 
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0f0f0f&height=120&section=footer"/>
+---
+
+## `$ ./contact.sh`
+
+<p>
+  <a href="https://www.linkedin.com/in/kevin-rigal-80a331240/"><img src="https://img.shields.io/badge/LinkedIn-0b0b0e?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+  <a href="mailto:krigal323@gmail.com"><img src="https://img.shields.io/badge/Email-0b0b0e?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+  <img src="https://img.shields.io/badge/Discord-splint314-0b0b0e?style=for-the-badge&logo=discord&logoColor=5865F2"/>
 </p>
+
+<p align="center"><sub><code>// toujours en train d'optimiser</code></sub></p>
